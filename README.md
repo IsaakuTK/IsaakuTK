@@ -9,8 +9,8 @@
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at isaaccallecardozo@gmail.com! I'll try to respond as soon as I can.
-
+✉️ &nbsp;You can shoot me an email at isaaccallecardozo@gmail.com! I'll try to respond as soon as I can.\
+Page: https://67a4487c2868a3a173a1cfce--elaborate-cat-d8c624.netlify.app/
 
 <img alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY0MDBobWk4anR4NWE4N3BuNjc2N2F4YW9idzRpd3UyODMxamxjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif" align="right"/>
 
