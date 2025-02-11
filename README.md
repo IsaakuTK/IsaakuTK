@@ -28,13 +28,14 @@
 ### 🗃 &nbsp;Databases&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
@@ -61,7 +62,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-IsaacCalle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/isaac-calle-cardozo-g0df1r5t/"><img src="https://img.shields.io/badge/-IsaacCalle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:isaaccallecardozo@gmail.com"><img src="https://img.shields.io/badge/-IsaacCalle-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-IsaacCalle-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/isaaccallecardozo/"><img src="https://img.shields.io/badge/-IsaacCalle-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
