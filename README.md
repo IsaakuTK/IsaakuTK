@@ -25,9 +25,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+### 🗃 &nbsp;Databases&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
