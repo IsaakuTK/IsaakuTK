@@ -63,7 +63,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/isaac-calle-cardozo-g0df1r5t/"><img src="https://img.shields.io/badge/-IsaacCalle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/isaac-calle-cardozo-g0df1r5t/"><img src="badge/-IsaacCalle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:isaaccallecardozo@gmail.com"><img src="https://img.shields.io/badge/-IsaacCalle-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/isaaccallecardozo/"><img src="https://img.shields.io/badge/-IsaacCalle-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
