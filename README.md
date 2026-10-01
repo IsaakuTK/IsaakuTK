@@ -23,7 +23,7 @@
 - 🎓 &nbsp;**Interactive Media Design** from **ICESI University**, **graduated with Honors** (2026) · 🏅 Honor Roll 2025-1 & 2025-2
 - 🎨 &nbsp;I bridge **design and development**: from wireframes and high-fidelity prototypes to production-ready components.
 - 🧩 &nbsp;I love building **design systems** and reusable component libraries with **React** and **Storybook**.
-- ⚡ &nbsp;Currently building with **Astro, Tailwind CSS 4 and Supabase**.
+- ⚡ &nbsp;Currently building with **React, Tailwind CSS 4 and Supabase**.
 - 🌍 &nbsp;Spanish (Native) · English (C1)
 - ⚽ &nbsp;Outside of code: soccer, video games, travel and agile methodologies.
 
