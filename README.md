@@ -1,69 +1,99 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Isaac Calle</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2 align="left">Hey there! I'm Isaac Calle</h2>
 
+<p align="left">
+  <b>Front-end Developer & UI/UX Designer</b> · Interactive Media Design graduate with Honors 🎓 · Cali, Colombia 🇨🇴<br/>
+  I design in Figma and ship in code: interfaces that look good, feel intuitive and scale.
+</p>
 
-<h3 align="left">Portfolio-Page: https://portafolio-web-seven-delta.vercel.app</h3>
+<p align="left">
+  <a href="https://portafolio-web-seven-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/isaac-calle-cardozo-g0df1r5t/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:isaaccallecardozo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Reemplaza TU_USUARIO con tu usuario de Behance -->
+  <a href="https://www.behance.net/TU_USUARIO"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+</p>
+
+---
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and use my creativity.
-🎓 &nbsp;I'm currently studying Design of interactive enviroments at ICESI.\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at isaaccallecardozo@gmail.com! I'll try to respond as soon as I can.
+<img alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY0MDBobWk4anR4NWE4N3BuNjc2N2F4YW9idzRpd3UyODMxamxjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif" align="right" width="280"/>
 
+- 🎓 &nbsp;**Interactive Media Design** from **ICESI University**, **graduated with Honors** (2026) · 🏅 Honor Roll 2025-1 & 2025-2
+- 🎨 &nbsp;I bridge **design and development**: from wireframes and high-fidelity prototypes to production-ready components.
+- 🧩 &nbsp;I love building **design systems** and reusable component libraries with **React** and **Storybook**.
+- ⚡ &nbsp;Currently building with **Astro, Tailwind CSS 4 and Supabase**.
+- 🌍 &nbsp;Spanish (Native) · English (C1)
+- ⚽ &nbsp;Outside of code: soccer, video games, travel and agile methodologies.
 
-<img alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY0MDBobWk4anR4NWE4N3BuNjc2N2F4YW9idzRpd3UyODMxamxjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif" align="right"/>
+<br clear="right"/>
+
+---
+
+### 💼 &nbsp;Experience
+
+| Role | Company | Highlights |
+|------|---------|------------|
+| **Front-end Developer** | 🇨🇭 Carnivora · *Jan – Jun 2026* | Designed, prototyped and built the website for a Swiss pet food startup with WordPress, Breakdance, PHP and JavaScript. |
+| **Front-end Developer** | UXLab ICESI · *Feb – Dec 2025* | Built **20+ Storybook components** and technical docs for Alianza Fiduciaria, which cut implementation time by **15%**. |
+| **UI/UX Designer** | Bancóldex · *Aug – Dec 2024* | Made high-fidelity prototypes in Figma and ProtoPie that cut task time by **25%** and got **90%** stakeholder approval. |
+| **Front-end Developer** | Pacific Health Solutions · *Nov 2023 – Jul 2024* | Built **30+ reusable React components** that improved interaction efficiency by **25%**. |
+
+---
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Front-end**
 
-### 🗃 &nbsp;Databases&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,astro,ts,js,html,css,tailwind,vite&perline=8" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+**Back-end & Databases**
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,nodejs,py,wordpress&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/>
+</p>
 
-### 🧰 &nbsp;Version Controll & Tools 
+**Design & Prototyping**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ProtoPie-E5355F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spline-1E1E1E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Breakdance-6C2BD9?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Deploy & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,npm,bash,vscode,notion&perline=8" />
+</p>
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/IsaakuTK">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsaakuTK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsaakuTK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/IsaakuTK">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaakuTK&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaakuTK&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaakuTK&theme=dark&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=IsaakuTK&theme=algolia&hide_border=true"/>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/isaac-calle-cardozo-g0df1r5t/"><img src="https://custom-icon-badges.demolab.com/badge/IsaacCalle-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="mailto:isaaccallecardozo@gmail.com"><img src="https://img.shields.io/badge/-IsaacCalle-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/isaaccallecardozo/"><img src="https://img.shields.io/badge/-IsaacCalle-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  💬 Open to <b>front-end</b>, <b>UI/UX</b> and <b>design systems</b> opportunities. Let's build something together!
 </p>
